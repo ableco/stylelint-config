@@ -1,6 +1,6 @@
 # @ableco/stylelint-config
 
-This repository provides recommended Stylelint configuration for use on Able projects.
+This repository provides the recommended Stylelint configuration for use on Able projects.
 
 ## Installation
 
